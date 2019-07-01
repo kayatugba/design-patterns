@@ -19,7 +19,7 @@ public class FactoryPatternApplication {
 		square.draw();
 
 		Shape triangle = shapeFactory.getShape(ShapeType.TRIANGLE);
-		circle.draw();
+		triangle.draw();
 
 	}
 
