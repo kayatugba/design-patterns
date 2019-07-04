@@ -14,8 +14,6 @@ public class AudioPlayer implements MediaPlayer {
 			mediaPlayerAdapter = new MediaPlayerAdapter();
 			mediaPlayerAdapter.play(mediaType, fileName);
 		}
-
-
 	}
 
 }
