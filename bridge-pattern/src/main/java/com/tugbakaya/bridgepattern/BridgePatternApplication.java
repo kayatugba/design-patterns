@@ -12,5 +12,4 @@ public class BridgePatternApplication {
 		redSquare.draw();
 
 	}
-
 }
